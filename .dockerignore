@@ -1,0 +1,5 @@
+# Virtualenv
+.venv
+
+# All .env files
+*.env
